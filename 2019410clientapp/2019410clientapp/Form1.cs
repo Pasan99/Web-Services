@@ -112,7 +112,7 @@ namespace _2019410clientapp
 
             DialogResult dialogResult = MessageBox.Show("Are you sure you want to Update student with ID Number "
                 + lblid.Text + " (" + nametxt.Text + ") ?",
-                "Delete", MessageBoxButtons.YesNo);
+                "Update", MessageBoxButtons.YesNo);
 
             if (dialogResult == DialogResult.Yes)
             {
@@ -164,7 +164,7 @@ namespace _2019410clientapp
                     // use the stub 
                     WebService1SoapClient y = new WebService1SoapClient();
                     // call method using stub
-                    if ( y.t == null || !(y.DeleteStudent(studentID)))
+                    if ( y == null || !(y.DeleteStudent(studentID)))
                     {
                         ErrorMessage.Text = "Operation Not Successfull";
                     }
