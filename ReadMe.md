@@ -16,7 +16,9 @@ This is Demostration of using web services
 </ul>
 
 <h3>Overview</h3>
-<img src="/Theory/WebServicesTheory.PNG"/>
+<img src="/Theory/WebServicesTheory.png"/>
+</br>
+<h1>Interfaces</h1>
 
 <h3>Web Service</h3>
 <img src="/OUTPUT/WebService.PNG"/>
