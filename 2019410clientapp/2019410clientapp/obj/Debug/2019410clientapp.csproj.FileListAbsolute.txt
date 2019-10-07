@@ -1,0 +1,19 @@
+C:\Users\USER\source\repos\2019410clientapp\2019410clientapp\bin\Debug\2019410clientapp.exe.config
+C:\Users\USER\source\repos\2019410clientapp\2019410clientapp\bin\Debug\2019410clientapp.exe
+C:\Users\USER\source\repos\2019410clientapp\2019410clientapp\bin\Debug\2019410clientapp.pdb
+C:\Users\USER\source\repos\2019410clientapp\2019410clientapp\obj\Debug\2019410clientapp.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\2019410clientapp\2019410clientapp\obj\Debug\_2019410clientapp.Form1.resources
+C:\Users\USER\source\repos\2019410clientapp\2019410clientapp\obj\Debug\_2019410clientapp.Properties.Resources.resources
+C:\Users\USER\source\repos\2019410clientapp\2019410clientapp\obj\Debug\2019410clientapp.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\2019410clientapp\2019410clientapp\obj\Debug\2019410clientapp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\2019410clientapp\2019410clientapp\obj\Debug\2019410clientapp.exe
+C:\Users\USER\source\repos\2019410clientapp\2019410clientapp\obj\Debug\2019410clientapp.pdb
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Web Programming\Web Services\2019410clientapp\2019410clientapp\bin\Debug\2019410clientapp.exe.config
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Web Programming\Web Services\2019410clientapp\2019410clientapp\bin\Debug\2019410clientapp.exe
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Web Programming\Web Services\2019410clientapp\2019410clientapp\bin\Debug\2019410clientapp.pdb
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Web Programming\Web Services\2019410clientapp\2019410clientapp\obj\Debug\2019410clientapp.csprojAssemblyReference.cache
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Web Programming\Web Services\2019410clientapp\2019410clientapp\obj\Debug\_2019410clientapp.Form1.resources
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Web Programming\Web Services\2019410clientapp\2019410clientapp\obj\Debug\_2019410clientapp.Properties.Resources.resources
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Web Programming\Web Services\2019410clientapp\2019410clientapp\obj\Debug\2019410clientapp.csproj.GenerateResource.cache
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Web Programming\Web Services\2019410clientapp\2019410clientapp\obj\Debug\2019410clientapp.exe
+C:\Users\pasan\OneDrive\Desktop\LNBTI\Web Programming\Web Services\2019410clientapp\2019410clientapp\obj\Debug\2019410clientapp.pdb
